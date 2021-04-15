@@ -2,16 +2,19 @@
 	"tokens": [{
 		"id": 0,
 		"description": "My VITA",
+		"external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
 		"image": "https://raw.githubusercontent.com/clabar79/cla/main/VITA.jpg",
 		"name": "My VITA 0"
 	}, {
 		"id": 1,
 		"description": "My VITA",
+		"external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
 		"image": "https://raw.githubusercontent.com/clabar79/cla/main/VITA.jpg",
 		"name": "My VITA 1"
 	}, {
 		"id": 2,
 		"description": "My VITA",
+		"external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
 		"image": "https://raw.githubusercontent.com/clabar79/cla/main/VITA.jpg",
 		"name": "My VITA 2"
 	}]
