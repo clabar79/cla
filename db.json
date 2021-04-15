@@ -4,7 +4,19 @@
     "id": 0,
     "description": "My VITA",
     "image": "https://raw.githubusercontent.com/clabar79/cla/main/VITA.jpg",
-    "name": "My VITA"    
+    "name": "My VITA 0"    
+    }
+     {
+    "id": 1,
+    "description": "My VITA",
+    "image": "https://raw.githubusercontent.com/clabar79/cla/main/VITA.jpg",
+    "name": "My VITA 1"    
+    }
+     {
+    "id": 2,
+    "description": "My VITA",
+    "image": "https://raw.githubusercontent.com/clabar79/cla/main/VITA.jpg",
+    "name": "My VITA 2"    
     }
    ]
 }
